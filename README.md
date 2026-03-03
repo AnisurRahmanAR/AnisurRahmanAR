@@ -1,6 +1,6 @@
-# Hi there!
+<h1 align="center">Hi there, I'm Anisur!</h1>
+<h3 align="center">I’m a software engineer focused on building reliable code, working to be the best of the best</h3>
 
-I’m a software engineer focused on building reliable, user-centred applications through careful design and iteration.
 I’m interested in how systems behave over time, how small decisions compound, and how clear thinking leads to maintainable code. I value fundamentals, documentation, and finishing what I start.
 
 ## Technical Focus
@@ -45,16 +45,12 @@ A modern React portfolio built to present projects and technical experience clea
 Prioritised structure, responsiveness, and maintainability over visual excess.
 GitHub Repository | Live Site
 
-## Launch Control Quantum (Concept Project)
-
-An exploratory software project examining interface design, theming, and early 3D integration for a vehicle customisation platform.
-Maintained as a learning-focused and extensible codebase.
 GitHub Repository
 
-# Contact
-
-## LinkedIn
-https://www.linkedin.com/in/anisur-r/
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anisur-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anisur-Rahman" height="30" width="40" /></a>
+</p>
 
 ## GitHub
 https://github.com/AnisurRahmanAR
