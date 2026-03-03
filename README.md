@@ -32,6 +32,10 @@ Comfortable with version control, debugging, and iterative development.
 AWS, Azure
 Foundational exposure to cloud concepts, deployment, and services.
 
+# Learning Direction
+
+I'm currently learning **Flutter and Dart, Wordpress, advanced TypeScript**
+
 <h2 align="center">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/anisur-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anisur-Rahman" height="30" width="40" /></a>
@@ -42,7 +46,3 @@ https://github.com/AnisurRahmanAR
 
 ## Email
 Available on request
-
-# Learning Direction
-
-I am currently focused on strengthening core software engineering fundamentals: deeper JavaScript and React understanding, improved backend design with Node.js, and writing code that is easier to reason about, test, and maintain. My aim is steady improvement through fewer, better-finished projects.
