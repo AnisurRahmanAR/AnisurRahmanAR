@@ -32,20 +32,7 @@ Comfortable with version control, debugging, and iterative development.
 AWS, Azure
 Foundational exposure to cloud concepts, deployment, and services.
 
-# Selected Projects
-## Wedding Guest Media Application
-
-React and Firebase application enabling guests to upload and view shared media via QR code.
-Designed with a focus on reliability, upload progress handling, and consistent behaviour across devices.
-GitHub Repository | Live Demo
-
-## Personal Portfolio Website
-
-A modern React portfolio built to present projects and technical experience clearly and concisely.
-Prioritised structure, responsiveness, and maintainability over visual excess.
-GitHub Repository | Live Site
-
-GitHub Repository
+<h2 align="center">GitHub Repository</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
