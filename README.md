@@ -3,7 +3,7 @@
 
 I’m interested in how systems behave over time, how small decisions compound, and how clear thinking leads to maintainable code. I value fundamentals, documentation, and finishing what I start.
 
-## Technical Focus
+<h2>Technical Focus</h2>
 
 I work across the stack, choosing tools based on the problem rather than trend.
 
@@ -32,9 +32,7 @@ Comfortable with version control, debugging, and iterative development.
 AWS, Azure
 Foundational exposure to cloud concepts, deployment, and services.
 
-<h2 align="center">GitHub Repository</h2>
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/anisur-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anisur-Rahman" height="30" width="40" /></a>
 </p>
